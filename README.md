@@ -13,7 +13,7 @@
 ## 运行方法
 1. 使用npm install命令下载依赖
 2. 进入项目文件夹CourseManage，使用npm run dev运行
-3. 打开 http://localhost:8080/login/student从登陆页面开始使用本平台
+3. 打开 http://localhost:8080/login/student 从登陆页面开始使用本平台
 
 ## 工作进度
 12/21 完成基本页面简洁功能及展示，路由跳转正确，尚未获取后端数据
